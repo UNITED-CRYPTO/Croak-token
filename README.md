@@ -10,7 +10,7 @@ Mint address: **4kGAmtFAkWnpkTzW35RD7CdfDuraur49RshoFkiHW7Md**
 
 Decimals: **6**
 
-Image (LogoURI): **https://bafkreibfzks5sakclsie7ytwpmxqvk4f3ynngntkfvjp7f4i6p3wzdts7e.ipfs.cf-ipfs.com**
+Image (LogoURI): **https://raw.githubusercontent.com/UNITED-CRYPTO/Croak-token/master/croak_token_logo.jpg**
 
 Description: **Croak token — a fun meme token featuring frogs, creating a strong and active community**
 
